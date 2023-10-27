@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela, aka @theprincesbride!
 - 👀 I’m interested in learning how to code so that I may get a job in the future.  
-- 🌱 I’m currently learning basic Javascript from The Odin Project.
+- 🌱 I’m currently learning Ruby from The Odin Project.
 - 💞️ I’m looking to collaborate on any beginner exercises.
 - 📫 How to reach me: angela.risher@gmail.com
 
